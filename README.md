@@ -1,7 +1,7 @@
 feed-reader-demo
 ================
 
-This app demostaights basic app structure and functionallity for reading and displaying a network feed via a native Android application.
+This app demonstrates basic app structure and functionality for reading and displaying a network feed via a native Android application.
 
 ![Example Image][1]
 
