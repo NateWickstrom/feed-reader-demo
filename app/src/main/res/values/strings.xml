@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kamcord Demo</string>
+
+    <string name="video_title">Title</string>
+
+    <!-- Toast messages to the user -->
+    <string name="network_error_toast_message">Oops, trouble fetching data!</string>
+    <string name="list_item_click_toast_message">Tap the image to watch video.</string>
+
+</resources>
